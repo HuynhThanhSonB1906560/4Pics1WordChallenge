@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">4 Pics 1 Word Challenge</string>
+    <string name="remove_extra">Remove Extra</string>
+    <string name="remove_coins">You want to remove extra letters for 50 coins</string>
+    <string name="yes">Yes</string>
+    <string name="save">Save</string>
+    <string name="episode">EPISODE</string>
+    <string name="ok">OK</string>
+    <string name="english">English</string>
+    <string name="game_name">4 Pics 1 Word Challenge</string>
+    <string name="play">Play</string>
+    <string name="rule">Rules</string>
+    <string name="exit">exit</string>
+    <string name="level_complete">Level Complete</string>
+    <string name="continuet">Continue</string>
+    <string name="settings">SETTINGS</string>
+    <string name="dont_have">You don\'t have enough coins</string>
+    <string name="go_to_menu">Go to menu</string>
+</resources>
